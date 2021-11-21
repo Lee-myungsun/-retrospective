@@ -23,4 +23,4 @@
 * 참가자들은 모두가 공감할 수 있는 가장 통찰력 있는 답변을 선택한다
 * 문제의 해결 방법에 대해 토의진행
 
-<img src="https://user-images.githubusercontent.com/62130704/142760564-d1989d65-79a4-41c8-bf4c-0d4b84f63d1c.jpeg" width="700" height="400" />
+<img src="https://user-images.githubusercontent.com/62130704/142760564-d1989d65-79a4-41c8-bf4c-0d4b84f63d1c.jpeg" width="500" height="500" />
