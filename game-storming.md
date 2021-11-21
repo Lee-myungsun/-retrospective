@@ -14,8 +14,4 @@
 * 플립차트의 과제 이름 아래 Why? 를 5번쓰고, 각 참가자의 포스트잇을 일렬고 붙일 수 있게 수직선을 여러 개 그린다
 * 마지막, Why를 보면서 공통점과 차이점에 대해 토론
 
-
-![KakaoTalk_Photo_2021-11-21-20-38-36](https://user-images.githubusercontent.com/62130704/142760274-abb35cd7-51bd-48da-95d7-83ad11908465.jpeg)
-
-
-<img src="https://user-images.githubusercontent.com/62130704/142760274-abb35cd7-51bd-48da-95d7-83ad11908465.jpeg" />
+<img src="https://user-images.githubusercontent.com/62130704/142760274-abb35cd7-51bd-48da-95d7-83ad11908465.jpeg" width="700" height="500" />
