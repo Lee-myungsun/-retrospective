@@ -15,3 +15,7 @@
 * 마지막, Why를 보면서 공통점과 차이점에 대해 토론
 
 <img src="https://user-images.githubusercontent.com/62130704/142760274-abb35cd7-51bd-48da-95d7-83ad11908465.jpeg" width="700" height="500" />
+
+---
+
+ㅁㅁ
